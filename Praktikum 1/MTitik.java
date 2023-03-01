@@ -3,7 +3,7 @@ MTitik.java 22/02/2023
 Penulis : Raihan Gilang Firdausy
 NIM : 24060121130065
 Deskripsi : Kelas yang berisi progam utama yang memanfaatkan
-			kelas Titik.
+	    kelas Titik.
 **/
 
 class MTitik{
