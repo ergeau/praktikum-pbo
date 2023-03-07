@@ -1,5 +1,5 @@
 /**
-Titik.java 201/03/2023
+Titik.java 01/03/2023
 Penulis : Raihan Gilang Firdausy
 NIM : 24060121130065
 Deskripsi : Program Kelas titik
