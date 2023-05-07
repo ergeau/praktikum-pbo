@@ -1,7 +1,7 @@
 /**
 * File: Payroll.java 03/05/2023
 * Penulis: Raihan Gilang Firdausy
-* Deskripsi : Program Payroll menerima parameter
+* Deskripsi : Program Payroll
 */
 
 public class Payroll {
