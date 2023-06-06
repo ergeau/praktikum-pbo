@@ -14,7 +14,7 @@ public class LambdaHashmap{
         //Mengisi data mahasiswa
         mahasiswa.put("24060121130065", "Raihan Gilang Firdausy");
 		
-		//Mencetak isi
+	//Mencetak isi
         mahasiswa.forEach((nim, nama) -> System.out.println("NIM: " + nim + ", Nama: " + nama));
     }
 }
