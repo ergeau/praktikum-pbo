@@ -9,7 +9,7 @@ import java.util.*;
 public class LambdaHashmap{
     public static void main(String[] args){
         //Membuat Hashmap mahasiswa
-        Map<String, String> mahasiswa = new HashMap<String, String>();
+        Map<String, String> mahasiswa = new HashMap<>();
 		
         //Mengisi data mahasiswa
         mahasiswa.put("24060121130065", "Raihan Gilang Firdausy");
